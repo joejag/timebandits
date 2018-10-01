@@ -5,8 +5,47 @@
 
 ---
 
+## Making Work Visible - Dominica DeGrandis
+
+![right](images/book.jpg)
+
+---
+
 > Busyness is an addiction, which doesn't equate to growth or value. It usually means doing a bunch of things that all turn out crappy
 --Dominica DeGrandis
+
+---
+
+# The Five Bandits
+
+---
+
+# Too Much WIP
+
+---
+
+# Unknown Deps
+
+---
+
+# Unplanned Work
+
+---
+
+# Conflicting Priorities
+
+> Focus is a matter of deciding what things you're not going to do 
+--John Carmack
+
+---
+
+# Neglected Work
+
+(Spanish Inquisition)
+
+---
+
+![](images/catch_a_thief.jpg)
 
 ---
 
