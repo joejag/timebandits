@@ -68,28 +68,30 @@
 * How to we go about catching these thieves? And removing their control from over us.
 * Which all starts with creating a Kanban.
 
-# KILL: Make Work Visible
+# Aim of Kanban is to make problems come to the surface
 
 * Get it out of the shadows. It's hard to manage invisible work - as you can't tell if the system in overloaded
-* Workflow system that: Make work visible, Limit WIP, Measure and manage flow of work, Prioritise effectively, Make adjustments based on learnings from feedback and metrics
+* Workflow system that: Make work visible, Limit WIP, Measure and manage flow of work and adjust
 * Ranting doesn't work, but presenting data to leadership does
-
-* KT: Folk prefer pictures over words - it helps us see patterns
 
 # Flow Metrics
 
-* The best metrics are flow metrics: lead time, cycle time, WIP and aging reports.
-* Flow metrics: We can report that there is a 90% chance this type of work will be complete within 10 day
-  * This helps our customers are we become more predictable.
-* Lead and Cycle time measure flow: Coffee order example. Internal teams try to reduce the wait time to be more efficient.
-* Queues represent the biggest waste in product development.
-* Due dates cause bad behaviour in our industry, we can get better prediction through these metrics
-* KT: Predicatbility goes away when WIP increases and the flow times elongate.
+* Two metrics are super useful: first is cycle time
+  * Cycle time includes waiting time. Despite the focus on the activity parts, it's the queues that dominate
+* WIP: In this case for the whole system.
+  * WIP is great as it's a leading indicator for when things are going wrong. you don't have to wait
+* With Cycle Time and WIP data you can start forecasting how long it would take to deliver a bunch of work items. This gets us away from unneccesary due dates and allows us to be more predictable with our customers.
+
+* KT: In all systems, Predicatbility will go away when WIP increases and the cycle times elongate. The key is adjusting to the point where it works for your team.
+
+> How does this help get rid of the number one problem of too much WIP
 
 # KILL: Ambush the ringleader
 
 * Reminder: Endorphins from saying 'yes' -> more context switching -> more interuptions -> less done
-* Scrum has a planned WIP limit enforced by the iteration length, Kanban has limits
+* (JOKE): Look at Jim Carrey here, he's said yes so much he's flying.
+* Be the No person. But how do we get there? "stop starting, start finishing" but that's hard.
+* We need an enabling constraint to create the tension. Which we do by limiting the possible work allowed.
 * Limit WIP: 
   * add tension/enabling constraint. 
   * Limit to team capacity (current-, team size) -> get to 'no'

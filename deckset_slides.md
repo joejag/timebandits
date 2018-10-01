@@ -3,9 +3,11 @@
 ### *Joe Wright*
 #### __@joe_jag__
 
+![](images/bandits.jpg)
+
 ---
 
-## Home of the time bandits
+## Book of the time bandits
 
 ![right fit](images/book.jpg)
 
@@ -104,24 +106,48 @@
 
 ---
 
-# Flow Metrics
+![fit](images/actions/kanban.png)
 
 ---
 
-# More 'No', Less WIP
-(Kanban board with limits) 
+![fit](images/actions/kanban_cycle.png)
 
 ---
 
-# Expose Dependencies
+![fit](images/actions/kanban_wip.png)
+  
+---
+
+![fit](images/actions/monte.png)
+  
+---
+
+## Too Much __WIP__
+:arrow_down:
+# Add WIP Limits
+![left](images/actions/yes_man.jpg)
+
+---
+
+## Too Much __WIP__
+:arrow_down:
+# More 'No' 
+# Less WIP
+![left](images/actions/wip.png)
+
+---
+
+# [fit] Expose Dependencies
  
+![right](images/actions/dependency_board.png)
+
 ---
 
 # Unplanned Work
  
 ---
 
-# Prioritize, Prioritize, Prioritize
+# Prioritise! Prioritise! Prioritise!
  
 ---
 
