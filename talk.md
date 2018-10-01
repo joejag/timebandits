@@ -38,29 +38,32 @@ SHORT
 
 # Five Bandits
 
-    # Too Much WIP
+* If someone stole you wallet you'd notice. If someone stole your lunch you might send an email to all your colleagues trying to find the culprit. But if someone steals your time?
+* (Foreach: What it is & how it appears, how it steal time, indicators)
 
-    # Unknown Deps
+# FB: Too Much WIP
 
-    # Unplanned Work
+# FB: Unknown Deps
 
-    # Conflicting Priorities
+# FB: Unplanned Work
 
-    # Neglected Work
+# FB: Conflicting Priorities
+
+# FB: Neglected Work
 
 # How to kill the bandits
 
-    # Make Work Visible
+# KILL: Make Work Visible
 
-    # Ambush the ringleader
+# KILL: Ambush the ringleader
 
-    # Expose Dependencies
+# KILL: Expose Dependencies
 
-    # Unplanned Work
+# KILL: Unplanned Work
 
-    # Prioritize, Prioritize, Prioritize
+# KILL: Prioritize, Prioritize, Prioritize
 
-    # Preventing Negligence
+# KILL: Preventing Negligence
 
 # Flow Metrics
 
