@@ -1,66 +1,72 @@
 # INTRO: Time bandits: don't let these vampires get you
 
-* ?
+* Joe Wright, technical coach working here in Scotland.
+* I have a strong bias for making whatever I'm trying to understand into something visual. Could be reducing escaped defects and failed deploys. Whatever it is, I find it easier to spot patterns and get control of things by visualizing.
+
+> Last year I met Dominica who did a workshop on this topic and has since written a book this year.
 
 # Book
 
-* Dominica book, my own with Nancy Van Schooenderwoert
+* (read title): Categorises the thieves.
 * End of this talk: know the five theives and how to tackle them, and inspired to make work visible
+* Quite cheap and written in an easy to understand way
 
-> But why care about this?
+> But why care about this? Why care about viz and thieves
 
 # Why care
 
  "Busyness is an addiction, which doesn't equate to growth or value. It usually means doing a bunch of things that all turn out crappy" - DDeG
 
-* Our culture loves overwork and busyness and we overload ourselves - effectiveness & even efficiency be damned
-* By doing so, we lose time to avoidable problems by switching and neglecting work, which is expensive & dispiriting. It's also a correlated to Burnout in the state of devops report.
-* We can create habits that create a circle of healthy, sustainable and improvable work.
+* Addicted to being busy. 100% calendars - tetris, Taking on more. Quality goes out the window as we neglect and switch tasks while being chased for updates. Crappy.
+* Reasearch is showing this behaviour as one of the causes of burnout - taxing our mental health
+* So instead, I'd like to share habits that create a circle of healthy, sustainable and improvable work.
 
-# Five Bandits
-
-* If someone stole you wallet you'd notice. If someone stole your lunch you might send an email to all your colleagues trying to find the culprit. But if someone steals your time?
-* (Foreach: What it is & how it appears, how it steal time, clues it leaves at the scene)
+> Introduce the thieves We might not even realise are stealing our time.
 
 # FB: Too Much WIP
 
 * What: Demand > capactiy -> delay, costs, quality & irratable staff
-* Why: 'yes' -> team, fear, shiny, unsure size, please people
+* Why: 'yes' -> team, shiny, unsure size, please people
 * How: Context switching, neglected, wait times
 * Clues: Switch, quality, 'yes', cycletime, mastery missing (it's elusive)
 
 # FB: Unknown Deps
 
+* Known dependecies can get you too.
 * What: 3 types: Software/Hardware (API, cloud), expertise/authorisation, Activity(db restore).
-* Why: "Every dep doubles your chances of being delayed or late"  - Troy Magennis 
+* Finding out late is the worst: API change, cloud drops a service, expert not available, db not restored
 * How: Blocked work, Unplanned work -> it's expesive when you don't know
 * Clues: High Coordination, folk aren't available when you need, unexpected changes to code/plan causes another thing
 
 # FB: Unplanned Work
 
-* What: Work that you didn't expect to be doing. It's important but skipped the planning stage
-* Why: Increases uncertainty & removes predictability. Eats planned work for breakfast
-* How: High WIP, which is often invisible
-* Clues: You've not your planned work 2 weeks later
+* Unplanned work sets back planned work and increases uncertainty in your system which ruins your predictability
+  * Examples: Expediated work requests and failure demand
+  * Not all work has to be preplanned, we live in a complex world
+  * Unplanned work brings with it high WIP
+
+* Clues: You've not your planned work 2 weeks later. High performing teams spend 28% more time on planned work (State of Devops 2016)
 
 # FB: Conflicting Priorities
 
-* What: Many prorities. Most number one. Folk aren't paying attention to long things take
+* What: Many prorities. Most number one. Folk aren't paying attention to how long things take
 * Why: Prioritisation isn't happening. Starting without finishing
 * How: More priority meetings for all the projects. WIP bites again. Longer cycle times.
 * Clues: "My thing is high priority!", if X not done by Y, multiple when will my thing be done?
 
 # FB: Neglected Work
 
-* What: Like maintainece work to patch servers & tech debt. Old car -> not a problem unless you don't maintain.
-* Why: It's important but not urgent. No time for important.
-* How: When you least expect it.
-* Clues: important neglected work becomes an emergency
+* Aging software is like an old car, with regular maintainace (oil change) it'll function correctly. Old software isn't a problem, unmaintained which is hard to deploy is.
+* Maintainace is the most neglected type of work (folk chose more revenue rather than protecting). Types include
+  * Improving quality, reducing bugs and technical debt payments
+* It's important but not urgent.
+
+* Clues: important neglected work becomes an emergency (brushing teeth analogy)
 
 # How to catch a thief
 
-* How to we go about catching these thieves as obviously as if our wallet was stolen?
-* The problem is that you can't see this theivery. We need to expose it.
+* How to we go about catching these thieves? And removing their control from over us.
+* Which all starts with creating a Kanban.
 
 # KILL: Make Work Visible
 
@@ -189,16 +195,14 @@ JOKE: Glasses. Also lego creating sad children faces.
 * But yes. We managed to improve this team two fold. It was by concentrating on improving collaboration by working as a team.
 
 * Please note. Our team was in a safe context. I could understand if some people didn't want their work tracked
-
-# eBay Background
-
-* Any change, even a good change, impact performance. See J Curve
-
+* Any change, even a good change, can impact performance.
 * Challenges with rolling out new ways of working:
     * WIP limits are scary and unituitive. It means not saying 'yes'.  Select a doable initial WIP limit that says 'no' some of the time.
     * Remind them there's always more demand than capacity. Stay strong
     * Visualisation can make some people afraid. Leadership should relive the fear. No punishing people, change the system
 
+# eBay Background
+
 * In 2007 had this eBay bright yellow background, customers complained when they made it white. So they put it back and dropped the yellow over time.
-* Big change is scary, take small steps to improve your work, it's for our health.
+* Big change is scary, take small steps to improve your work, remember; it's for our health.
 * Thank you

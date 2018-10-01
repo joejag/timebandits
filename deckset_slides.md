@@ -5,9 +5,9 @@
 
 ---
 
-## Making Work Visible - Dominica DeGrandis
+## Home of the time bandits
 
-![right](images/book.jpg)
+![right fit](images/book.jpg)
 
 ---
 
@@ -16,42 +16,91 @@
 
 ---
 
-# The Five Bandits
+# Too Much __Work in Progress__ (__WIP__)
+
+![left fit](images/5bandits/wip.png)
 
 ---
 
-# Too Much WIP
+# __WIP__ Clues
+
+* Quality is suffering
+* Time to get things done is going up
+* We say 'yes' to every request
+* Context switching
+
+![left fit](images/5bandits/wip.png)
 
 ---
 
-# Unknown Deps
+# [fit] __Unknown Dependencies__
+
+![right](images/5bandits/dependencies.jpg)
 
 ---
 
-# Unplanned Work
+# __Unknown Dependencies__ Clues
+
+* High coordination costs
+* Experts aren't available
+* Changes to code or a plan causes unexpected things to happen
+
+![right](images/5bandits/dependencies.jpg)
 
 ---
 
-# Conflicting Priorities
+# __Unplanned Work__
 
-> Focus is a matter of deciding what things you're not going to do 
--- John Carmack
-
----
-
-# Neglected Work
-
-(broken old car)
+![left](images/5bandits/unplanned.jpg)
 
 ---
 
-![](images/catch_a_thief.jpg)
+# __Unplanned Work__ clues
+
+* Planned work doesn't get done - but you did other requests
+* Work skips the planning stage
+
+![left](images/5bandits/unplanned.jpg)
 
 ---
 
-Kanban image!!
+# __Conflicting Priorities__
+
+![right](images/5bandits/priorities.jpg)
+
+---
+
+# __Conflicting Priorities__ clues
+
+  *"When will my thing be done?"*
+  *"My thing is high priority!"*
+  *"If my thing doesn't get done by X, then Y"*
+
+![right](images/5bandits/priorities.jpg)
+
+---
+
+# __Neglected Work__
+
+![left](images/5bandits/neglected.jpg)
+
+---
+
+# __Neglected Work__ clues
+
+* Delayed tasks become emergencies
+* Work items in progress for over <br>60 days
+
+![left](images/5bandits/neglected.jpg)
+
+---
+
+![fit](images/catch_a_thief.jpg)
+
+---
+
 > The aim of Kanban is to make troubles come to the surface
--- Ohno
+-- Taiichi Ohno
 
 ---
 
