@@ -72,7 +72,13 @@
 
 # Flow Metrics
 
-* ???????
+* The best metrics are flow metrics: lead time, cycle time, WIP and aging reports.
+* Flow metrics: We can report that there is a 90% chance this type of work will be complete within 10 day
+  * This helps our customers are we become more predictable.
+* Lead and Cycle time measure flow: Coffee order example. Internal teams try to reduce the wait time to be more efficient.
+* Queues represent the biggest waste in product development.
+* Due dates cause bad behaviour in our industry, we can get better prediction through these metrics
+* KT: Predicatbility goes away when WIP increases and the flow times elongate.
 
 # KILL: Ambush the ringleader
 
@@ -185,3 +191,14 @@ JOKE: Glasses. Also lego creating sad children faces.
 * Please note. Our team was in a safe context. I could understand if some people didn't want their work tracked
 
 # eBay Background
+
+* Any change, even a good change, impact performance. See J Curve
+
+* Challenges with rolling out new ways of working:
+    * WIP limits are scary and unituitive. It means not saying 'yes'.  Select a doable initial WIP limit that says 'no' some of the time.
+    * Remind them there's always more demand than capacity. Stay strong
+    * Visualisation can make some people afraid. Leadership should relive the fear. No punishing people, change the system
+
+* In 2007 had this eBay bright yellow background, customers complained when they made it white. So they put it back and dropped the yellow over time.
+* Big change is scary, take small steps to improve your work, it's for our health.
+* Thank you
