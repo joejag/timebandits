@@ -35,18 +35,49 @@
 # Conflicting Priorities
 
 > Focus is a matter of deciding what things you're not going to do 
---John Carmack
+-- John Carmack
 
 ---
 
 # Neglected Work
 
-(Spanish Inquisition)
+(broken old car)
 
 ---
 
 ![](images/catch_a_thief.jpg)
 
+---
+
+Kanban image!!
+> The aim of Kanban is to make troubles come to the surface
+-- Ohno
+
+---
+
+# Flow Metrics
+
+---
+
+# More 'No', Less WIP
+(Kanban board with limits) 
+
+---
+
+# Expose Dependencies
+ 
+---
+
+# Unplanned Work
+ 
+---
+
+# Prioritize, Prioritize, Prioritize
+ 
+---
+
+# Preventing Negligence
+ 
 ---
 
 # Lego Workstream Visualization
@@ -66,6 +97,11 @@
 ---
 
 ![fit](images/lego/lego_3.png)
+
+---
+
+# The ask
+(boardroom folk)
 
 ---
 
