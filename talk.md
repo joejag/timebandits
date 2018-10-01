@@ -19,6 +19,57 @@ We'll see how to visualise these in charts as well as how to use LEGO to create 
 
 ----
 
+SHORT
+
+# INTRO
+
+* Dominica book, my own with Nancy Van Schooenderwoert
+* End of this talk: know the five theives and how to tackle them, and inspired to make work visible
+
+> But why care about this?
+
+# Why care
+
+ "Busyness is an addiction, which doesn't equate to growth or value. It usually means doing a bunch of things that all turn out crappy" - DDeG
+
+* Our culture loves overwork and busyness and we overload ourselves - effectiveness & even efficiency be damned
+* By doing so, we lose time to avoidable problems by switching and neglecting work, which is expensive & dispiriting. It's also a correlated to Burnout in the state of devops report.
+* We can create habits that create a circle of healthy, sustainable and improvable work.
+
+# Five Bandits
+
+    # Too Much WIP
+
+    # Unknown Deps
+
+    # Unplanned Work
+
+    # Conflicting Priorities
+
+    # Neglected Work
+
+# How to kill the bandits
+
+    # Make Work Visible
+
+    # Ambush the ringleader
+
+    # Expose Dependencies
+
+    # Unplanned Work
+
+    # Prioritize, Prioritize, Prioritize
+
+    # Preventing Negligence
+
+# Flow Metrics
+
+# The LEGO Experiment
+
+# eBay Background
+
+----
+
 * Intro
     * Combination of work by Dominca De Grandis and my own applications of visualising work
     * Why care
