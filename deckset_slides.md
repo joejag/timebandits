@@ -51,7 +51,7 @@
 
 ---
 
-# __Unplanned Work__
+# [fit] __Unplanned Work__
 
 ![left](images/5bandits/unplanned.jpg)
 
@@ -66,7 +66,7 @@
 
 ---
 
-# __Conflicting Priorities__
+# [fit] __Conflicting Priorities__
 
 ![right](images/5bandits/priorities.jpg)
 
@@ -187,7 +187,7 @@
  
 ---
 
-# Preventing Negligence
+# [fit] __Preventing Negligence__
 
 ![right](images/actions/fire.jpg)
  
@@ -247,7 +247,7 @@
 |                | *Planned* | *Failure* | *Ad-hoc* | *Meetings* |
 | ---            | ---     | ---     | ---    | ---      |
 | __April__      | 23%     | 30%     | 40%    | 2%       |
-| __November__   | 56%     | 4%      | 24%    | 10%      |
+| __Nov__        | 56%     | 4%      | 24%    | 10%      |
 
 ---
 
