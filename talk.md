@@ -1,9 +1,15 @@
 # INTRO: Time bandits: don't let these vampires get you
 
 * Joe Wright, technical coach working here in Scotland.
-* I have a strong bias for making whatever I'm trying to understand into something visual. Could be reducing escaped defects and failed deploys. Whatever it is, I find it easier to spot patterns and get control of things by visualizing.
 
-> Last year I met Dominica who did a workshop on this topic and has since written a book this year.
+* In the last year I've noticed something about myself that I hadn't recognised before. That's that I have a strong bias towards making things visual to better understand them. Be in through tv monitors, whiteboards or other means I find it helps me and others to spot patterns get a control of our work.
+
+* From that journey I have two things to sell you today.
+
+* The first is the idea that there are time bandits running havoc in your organisations, which we need to unmask and tackle. cackling with delight
+* The second I'm going to tell you about how I applied the same idead to create the most powerful retrospective technique I've found for improving how teams work. Which is with a set of Lego bricks like this.
+
+> This year Dominica, who was here last year, has written a book this year.
 
 # Book
 
@@ -21,7 +27,7 @@
 * Reasearch is showing this behaviour as one of the causes of burnout - taxing our mental health
 * So instead, I'd like to share habits that create a circle of healthy, sustainable and improvable work.
 
-> Introduce the thieves We might not even realise are stealing our time.
+> These time theives are running around destroying any good intentions you may have
 
 # FB: Too Much WIP
 
@@ -132,16 +138,21 @@
 * Good time management means spending time on important things and not just urgent things
 * Spend some time on fire prevention so you spend a lot less time putting out fires
 * Call out neglected work: flag 30 days, acknowledge, Create space to finish the most important work. Lower WIP to discuss the priorty of others, do, kill, move it back to backlog.            
-* Stop starting, start finishing
 
 * KT: Important work that is neglected becomes urgent, Visualize delays, Call out neglected work
 
+# End of this part
+
+* Those are the five thieves, now you know them and have strategies to tackle them
+* Learn more and deeper from Dominica's book
+* I'd like to tell you about where I put this into practice
+
 # The LEGO Experiment
 
-* We had visualised the work, reduced WIP and completed all the neglected work.
-* After a rocky start, We were building confidence in our ability to delivery bigger bits of work
+* We had visualised the work, found neglected, reduced WIP to 1 and completed all the neglected work.
+* The previous PO had burnt out so we did CoD ourselves to handle prioritisation and started saying 'no'
 * But at our retros we felt like a lot of our time was distracted on unplanned work
-* Wanted to show stakeholders and management that we were drowning
+* Wanted to show stakeholders and management that we were drowning via data
 
 # Calculate it
 
@@ -203,6 +214,6 @@ JOKE: Glasses. Also lego creating sad children faces.
 
 # eBay Background
 
-* In 2007 had this eBay bright yellow background, customers complained when they made it white. So they put it back and dropped the yellow over time.
+* In 2007 had this eBay bright yellow background, (web 2.0) customers complained when they made it white. So they put it back and dropped the yellow over time.
 * Big change is scary, take small steps to improve your work, remember; it's for our health.
 * Thank you

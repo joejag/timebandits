@@ -167,10 +167,11 @@
 
 # __Prioritise!__
 
-* HIPPO
-* FIFO
+* Highest Paid Persons Opinion (HiPPO)
+* First-In First Out
+* OKRs
 * Cost of Delay
-* WSJF
+* Weighted Shortest Job First
 
 ## Be Explicit
 
@@ -196,7 +197,15 @@
  
 ---
 
-# Lego Workstream Visualization
+# Catch them all
+
+* Too much WIP
+* Unknown Dependencies
+* Unplanned Work
+* Conflicting Priorities
+* Neglected Work
+
+![fit right](images/book.jpg)
 
 ---
 
