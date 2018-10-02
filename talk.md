@@ -114,9 +114,7 @@
 # KILL: Unplanned Work
 
 * We need to plan for unplanned work. To do that we need to know the ratio. Then we set a WIP limit to give you the capacity to plan for it.
-* Run an experiment to capture interupttions (stickie note, one week), one team added a mark to a story
 * Why: This minimises the damage caused by unplanned work, Use the unused unplanned work to work on important not urgent tasks
-* Handling interruptions: Concierge. Experiment: Ask teams how they can reduce the impact, what works and why? Try for a week.
 
 * KT: Always be unplanned work, Find the ratio & set the WIP, you can find it and prevent it by an experiment
 

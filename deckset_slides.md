@@ -139,19 +139,60 @@
 
 # [fit] Expose Dependencies
  
+![fit right](images/actions/deps_card.png)
+
+---
+
+# [fit] Expose Dependencies
+ 
+![fit right](images/actions/deps_spot.png)
+
+---
+
+# [fit] Expose Dependencies
+ 
 ![right](images/actions/dependency_board.png)
 
 ---
 
-# Unplanned Work
+## __Unplanned Work__
+
+:arrow_down:
+
+# Track it <br>&<br>Know the ratio
+ 
+![fit left](images/actions/kanban_unplanned.png)
+
+---
+
+# __Prioritise!__
+
+* HIPPO
+* FIFO
+* Cost of Delay
+* WSJF
+
+## Be Explicit
+
+![fit left](images/actions/cost_of_delay.png)
  
 ---
 
-# Prioritise! Prioritise! Prioritise!
+# __Prioritise!__
+
+## Establish a line of commitment
+
+![fit left](images/actions/kanban_options.png)
  
 ---
 
 # Preventing Negligence
+
+![right](images/actions/fire.jpg)
+ 
+---
+
+![fit](images/actions/aged.png)
  
 ---
 
@@ -176,7 +217,7 @@
 ---
 
 # The ask
-(boardroom folk)
+![](images/lego/boardroom.jpg)
 
 ---
 
