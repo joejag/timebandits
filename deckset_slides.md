@@ -59,7 +59,7 @@
 
 # __Unplanned Work__ clues
 
-* Planned work doesn't get done - but you did other requests
+* Planned work doesn't get done - but you completed other requests
 * Work skips the planning stage
 
 ![left](images/5bandits/unplanned.jpg)
@@ -248,6 +248,10 @@
 | ---            | ---     | ---     | ---    | ---      |
 | __April__      | 23%     | 30%     | 40%    | 2%       |
 | __November__   | 56%     | 4%      | 24%    | 10%      |
+
+---
+
+![fit](images/lego/alexander.jpg)
 
 ---
 
