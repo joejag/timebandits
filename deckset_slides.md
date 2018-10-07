@@ -91,7 +91,7 @@
 # __Neglected Work__ clues
 
 * Delayed tasks become emergencies
-* Work items in progress for over <br>60 days
+* Work items in progress for over __60__ days
 
 ![left](images/5bandits/neglected.jpg)
 
@@ -115,10 +115,6 @@
 ---
 
 ![fit](images/actions/kanban_wip.png)
-  
----
-
-![fit](images/actions/monte.png)
   
 ---
 
