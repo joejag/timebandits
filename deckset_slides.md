@@ -118,6 +118,10 @@
   
 ---
 
+![](images/lucy.mov)
+
+---
+
 ## Too Much __WIP__
 :arrow_down:
 # Add WIP Limits
@@ -165,9 +169,9 @@
 
 * Highest Paid Persons Opinion (HiPPO)
 * First-In First Out
-* OKRs
 * Cost of Delay
 * Weighted Shortest Job First
+* OKRs?
 
 ## Be Explicit
 
